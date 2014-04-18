@@ -2,6 +2,25 @@ name = Stanford Drupal Camp
 description = This is a copy of minimal for stanford drupal camp.
 version = VERSION
 core = 7.x
+
+; Core
 dependencies[] = block
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
 dependencies[] = dblog
+dependencies[] = search
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+
+; Contrib
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = views_ui
 
