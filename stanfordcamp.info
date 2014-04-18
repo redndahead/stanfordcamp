@@ -1,0 +1,7 @@
+name = Stanford Drupal Camp
+description = This is a copy of minimal for stanford drupal camp.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+
